@@ -1,0 +1,31 @@
+ID,scenario
+E-W-P1,"Small temperature changes relative to seasonal norms increase heating or cooling needs, slightly increasing natural gas consumption for heating or power generation."
+E-W-P2,"Moderate temperature changes relative to seasonal norms increase heating or cooling needs, increasing natural gas consumption for heating or power generation."
+E-W-P3,"Large temperature changes relative to seasonal norms increase heating or cooling needs, substantially increasing natural gas consumption for heating or power generation."
+E-W-M1,"Small temperature changes relative to seasonal norms reduce heating or cooling needs, slightly reducing natural gas consumption for heating or power generation."
+E-W-M2,"Moderate temperature changes relative to seasonal norms reduce heating or cooling needs, reducing natural gas consumption for heating or power generation."
+E-W-M3,"Large temperature changes relative to seasonal norms reduce heating or cooling needs, substantially reducing natural gas consumption for heating or power generation."
+E-PR-Pa,Operating constraints on compression and gas processing equipment at some production facilities slightly reduce natural gas output at each facility.
+E-PR-Pb,Major operating constraints on compression and gas processing equipment at some production facilities substantially reduce natural gas output at each facility.
+E-PR-Ma,Increased actual throughput through compression and gas processing equipment at some production facilities slightly increases the natural gas output available for supply from each facility.
+E-PR-Mb,A substantial increase in actual throughput through compression and gas processing equipment at some production facilities substantially increases the natural gas output available for supply from each facility.
+E-PI-P1,Output constraints on compression equipment along pipelines feeding Henry Hub slightly reduce the amount of natural gas that actually reaches the hub.
+E-PI-P2,Major output constraints on compression equipment along pipelines feeding Henry Hub substantially reduce the amount of natural gas that actually reaches the hub.
+E-PI-M1,Increased compressor utilization and actual throughput along pipelines feeding Henry Hub slightly increase the amount of natural gas that actually reaches the hub.
+E-PI-M2,Substantial increases in compressor utilization and actual throughput along pipelines feeding Henry Hub substantially increase the amount of natural gas that actually reaches the hub.
+E-ST-P1,Natural gas inventories available for withdrawal and supply from underground storage facilities are slightly below typical seasonal levels.
+E-ST-P2,Natural gas inventories available for withdrawal and supply from underground storage facilities are substantially below typical seasonal levels.
+E-ST-M1,Natural gas inventories available for withdrawal and supply from underground storage facilities are slightly above typical seasonal levels.
+E-ST-M2,Natural gas inventories available for withdrawal and supply from underground storage facilities are substantially above typical seasonal levels.
+E-LN-P1,Higher operating loads on liquefaction equipment at export terminals slightly increase the amount of gas withdrawn from the domestic pipeline network to produce LNG for export.
+E-LN-P2,Higher operating loads on liquefaction equipment at export terminals substantially increase the amount of gas withdrawn from the domestic pipeline network to produce LNG for export.
+E-LN-M1,Lower operating loads on liquefaction equipment at export terminals slightly reduce the amount of gas withdrawn from the domestic pipeline network to produce LNG for export.
+E-LN-M2,Lower operating loads on liquefaction equipment at export terminals substantially reduce the amount of gas withdrawn from the domestic pipeline network to produce LNG for export.
+E-FS-P1,Industrial facilities slightly increase production and shift a small share of process-heat supply from fuel-oil boilers to natural gas boilers.
+E-FS-P2,Industrial facilities substantially increase production and shift a small share of process-heat supply from fuel-oil boilers to natural gas boilers.
+E-FS-P3,Industrial facilities slightly increase production and shift a large share of process-heat supply from fuel-oil boilers to natural gas boilers.
+E-FS-P4,Industrial facilities substantially increase production and shift a large share of process-heat supply from fuel-oil boilers to natural gas boilers.
+E-FS-M1,Industrial facilities slightly reduce production and shift a small share of process-heat supply from natural gas boilers to fuel-oil boilers.
+E-FS-M2,Industrial facilities substantially reduce production and shift a small share of process-heat supply from natural gas boilers to fuel-oil boilers.
+E-FS-M3,Industrial facilities slightly reduce production and shift a large share of process-heat supply from natural gas boilers to fuel-oil boilers.
+E-FS-M4,Industrial facilities substantially reduce production and shift a large share of process-heat supply from natural gas boilers to fuel-oil boilers.

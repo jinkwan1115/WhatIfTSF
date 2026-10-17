@@ -1,0 +1,29 @@
+ROLE
+Convert source-supported event records into a concise factual scenario.
+
+INPUT
+- Target and fixed domain background
+- Source-supported event records
+- Forecast interval
+
+TASK
+Select at most two conditions using only evidence-based criteria:
+1. strength of source support,
+2. relevance to the forecasting target,
+3. temporal relevance to the forecast interval, and
+4. applicability of the corresponding domain mechanism.
+
+Express the selected conditions as one or two concise, mechanism-preserving sentences.
+
+RULES
+- Use only the supplied event records.
+- Do not use the realized target trajectory, construction forecasts, reference-relative direction, or calibrated departure score.
+- Preserve qualifications required for timing, scope, status, uncertainty, and mechanism validity.
+- Remove identifying details that are unnecessary for interpretation while preserving roles, relationships, scope, and other attributes required for the mechanism to remain meaningful.
+- Do not reveal target values, realized target movement, numerical effect sizes, or instructions about how the forecast should change.
+- Do not introduce unsupported assumptions or claim that a selected condition caused, dominated, or fully explained the realized future.
+- If no sufficiently supported and forecast-relevant condition is available, return HOLD_SAMPLE.
+
+OUTPUT
+status, scenario_text, selected_event_ids, mechanism_ids,
+claim_map, retained_qualifications, hold_reason

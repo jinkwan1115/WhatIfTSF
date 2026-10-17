@@ -1,0 +1,34 @@
+ROLE
+Extract source-supported conditions relevant to scenario annotation.
+
+INPUT
+- Target and fixed domain background
+- Forecast interval
+- Relevant entity, geography or scope, and role or relation if applicable
+- Dated source passages
+
+TASK
+Identify distinct events or conditions that:
+
+1. are explicitly supported by the supplied sources,
+2. overlap or remain relevant during the forecast interval, and
+3. correspond to a mechanism in the fixed domain background.
+
+For each condition, record:
+- factual condition,
+- timing and scope,
+- event status (observed, expected, announced, alleged, resolved, etc.),
+- applicable mechanism and required assumptions,
+- conflicting evidence or unresolved information.
+
+RULES
+- Use only the supplied sources.
+- Do not use outside knowledge.
+- Do not infer events from the target trajectory, model forecasts, reference-relative direction, or calibrated departure score.
+- Do not infer that a condition caused, dominated, or explains the target movement.
+- Preserve uncertainty and distinguish occurrence from expectation, announcement, allegation, and resolution.
+- Mark missing applicability conditions explicitly rather than filling them in.
+- If no usable condition is supported, return INSUFFICIENT.
+
+OUTPUT
+evidence_status, extracted_events, unresolved_items

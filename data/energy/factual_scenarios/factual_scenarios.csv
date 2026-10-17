@@ -1,0 +1,39 @@
+id,scenario
+0,A major U.S. natural gas producer cuts output.
+1,U.S. LNG export terminals draw more natural gas for liquefaction and export.
+2,"U.S. natural gas inventories are above the average for this time of year, providing a larger buffer for meeting domestic demand."
+3,Extreme heat in parts of the U.S. increases natural gas consumption for power generation.
+4,"U.S. natural gas inventories exceed the average for this time of year, leaving a larger buffer to meet domestic demand."
+5,"A U.S. LNG export terminal shuts down ahead of a hurricane, reducing its demand for natural gas."
+6,U.S. dry natural gas production continues to grow.
+7,"Less natural gas is added to U.S. storage than usual for this time of year, resulting in a smaller-than-usual buildup of inventories."
+8,Storm-related shutdowns reduce natural gas production at offshore U.S. facilities.
+9,"U.S. natural gas storage receives less gas than is usual for this time of year, leaving inventories to build up by less than usual."
+10,"U.S. natural gas stocks are higher than average for this time of year, providing a larger cushion for meeting domestic demand."
+11,U.S. LNG export terminals increase their intake of natural gas for liquefaction and export.
+12,Colder-than-normal weather increases natural gas demand for residential and commercial heating in the U.S.
+13,Cold weather increases natural gas use for heating across much of the United States.
+14,"More natural gas is added to U.S. storage than usual for this time of year, resulting in a larger-than-usual buildup of inventories."
+15,Hot weather in parts of the U.S. increases cooling demand and natural gas use for power generation.
+16,Above-average U.S. natural gas inventories for this time of year provide a larger buffer for meeting domestic demand.
+17,Extreme heat in parts of the U.S. raises cooling demand and natural gas use for power generation.
+18,Hot weather in parts of the U.S. raises cooling demand and increases natural gas consumption for power generation.
+19,"Hot weather initially raises cooling demand and natural gas use for power generation in parts of the U.S., while later LNG export terminals draw less natural gas and cooler weather reduces natural gas use for power generation."
+20,"With U.S. natural gas inventories above the average for this time of year, more stored gas is available as a buffer for domestic demand."
+21,A nuclear power plant outage in the U.S. increases reliance on natural gas-fired generation in the affected region.
+22,"U.S. natural gas inventories remain above the average for this time of year, while later in the period, colder weather increases residential heating demand in parts of the U.S. and storage injections are smaller than usual for this time of year."
+23,Colder weather in parts of the U.S. increases natural gas demand for residential and commercial heating.
+24,Cold weather in parts of the U.S. increases residential and commercial natural gas use for heating.
+25,"Cold weather initially raises heating demand in parts of the U.S., while later warmer conditions reduce heating demand and some U.S. LNG export terminals draw less natural gas for liquefaction and export."
+26,"U.S. natural gas inventories stand above the seasonal average, providing a larger reserve for meeting domestic demand."
+27,"U.S. natural gas storage holds above-average inventories for this time of year, providing a larger buffer to meet domestic demand."
+28,"U.S. natural gas inventories are higher than their seasonal average, leaving more gas in reserve to meet domestic demand."
+29,"Natural gas additions to U.S. storage are below the usual level for this time of year, resulting in a smaller inventory buildup than usual."
+30,Hotter-than-normal weather in parts of the U.S. raises cooling demand and natural gas use for power generation.
+31,Hotter-than-normal weather across several U.S. regions raises cooling demand and natural gas use for power generation.
+32,A larger buffer for meeting domestic demand is available because U.S. natural gas inventories exceed the average for this time of year.
+33,U.S. natural gas inventories provide a larger buffer to meet domestic demand because they are above the average for this time of year.
+34,U.S. natural gas inventories build up by less than usual as storage receives less gas than is typical for this time of year.
+35,U.S. dry natural gas production declines.
+36,"U.S. natural gas inventories remain above the average for this time of year, while later in the period, warmer weather increases cooling demand and natural gas use for power generation in parts of the U.S."
+37,"More natural gas is held in U.S. storage than the average for this time of year, providing a larger reserve to meet domestic demand."

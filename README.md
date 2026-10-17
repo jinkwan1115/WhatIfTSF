@@ -66,5 +66,5 @@ See `evaluation/` for inference and evaluation code for **Directly prompted LLMs
 
 ## Data construction for other domains
 
-- Users provide the numerical series, relevant textual sources, and a target definition with units. WIT's reusable construction pipeline drafts the domain background and mechanism map from those sources, then supports scenario construction and relation labeling. The generated outputs should be reviewed before use.
+- Users provide the numerical series, relevant textual sources, and a target definition with units. WIT's reusable construction pipeline drafts the domain background and mechanism map from those sources, then supports factual scenario construction. The generated outputs should be reviewed before use.
 - See the `construction/` folder for the related code.

@@ -1,0 +1,28 @@
+ID,scenario
+P-EC-Pa,"Under economic policies backed by the target party, workers’ pay rises slightly relative to essential living costs and layoffs decline slightly."
+P-EC-Pb,"Under economic policies backed by the target party, workers’ pay rises substantially relative to essential living costs and layoffs decline slightly."
+P-EC-Pc,"Under economic policies backed by the target party, workers’ pay rises slightly relative to essential living costs and layoffs decline substantially."
+P-EC-Pd,"Under economic policies backed by the target party, workers’ pay rises substantially relative to essential living costs and layoffs decline substantially."
+P-EC-Ma,"Under economic policies backed by the target party, workers’ pay falls slightly relative to essential living costs and layoffs increase slightly."
+P-EC-Mb,"Under economic policies backed by the target party, workers’ pay falls substantially relative to essential living costs and layoffs increase slightly."
+P-EC-Mc,"Under economic policies backed by the target party, workers’ pay falls slightly relative to essential living costs and layoffs increase substantially."
+P-EC-Md,"Under economic policies backed by the target party, workers’ pay falls substantially relative to essential living costs and layoffs increase substantially."
+P-GV-Pa,Implemented policies backed by the target party slightly cut income tax on wages and slightly raise public pension payments.
+P-GV-Pb,Implemented policies backed by the target party substantially cut income tax on wages and slightly raise public pension payments.
+P-GV-Pc,Implemented policies backed by the target party slightly cut income tax on wages and substantially raise public pension payments.
+P-GV-Pd,Implemented policies backed by the target party substantially cut income tax on wages and substantially raise public pension payments.
+P-GV-Ma,Implemented policies backed by the target party slightly raise income tax on wages and slightly cut public pension payments.
+P-GV-Mb,Implemented policies backed by the target party substantially raise income tax on wages and slightly cut public pension payments.
+P-GV-Mc,Implemented policies backed by the target party slightly raise income tax on wages and substantially cut public pension payments.
+P-GV-Md,Implemented policies backed by the target party substantially raise income tax on wages and substantially cut public pension payments.
+P-LD-PU,Senior figures in the target party publicly unite behind its leader and a common economic programme.
+P-LD-MU,Senior figures in the target party publicly challenge its leader and threaten to leave over its economic programme.
+P-LD-PA,An independent investigation confirms that the target party’s leader rejected a bribe offered for a political favor and reported the attempt.
+P-LD-MA,An independent investigation confirms that the target party’s leader accepted a bribe in exchange for a political favor.
+P-PO-P1,"Amid broad public demands for tighter controls on unauthorized entry, the target party proposes a limited tightening of border controls, stopping short of the requested level."
+P-PO-P2,"Amid broad public demands for tighter controls on unauthorized entry, the target party proposes a substantial tightening of border controls, stopping short of the requested level."
+P-PO-M1,"Amid broad public demands for tighter controls on unauthorized entry, the target party proposes a limited relaxation of border controls."
+P-PO-M2,"Amid broad public demands for tighter controls on unauthorized entry, the target party proposes a substantial relaxation of border controls."
+P-CO-M1,Rival parties form a political alliance to compete directly for the target party’s established electoral base.
+P-CO-M2,A rival party competing for the target party’s electoral base publishes a fully costed and financed plan to cut income tax on wages and increase public pensions.
+P-CO-M3,Senior politicians leave the target party and launch a new party seeking support from its established electoral base.

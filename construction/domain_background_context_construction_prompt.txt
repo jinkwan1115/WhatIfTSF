@@ -1,0 +1,37 @@
+ROLE
+Construct a fixed domain background for a scenario-conditioned forecasting benchmark.
+
+INPUT
+- Target definition and units
+- A collection of reference documents, each with a source ID, title, URL, publication date, and one or more passages
+
+TASK
+Read the supplied documents together and synthesize the mechanisms that recur across the literature and are important for the target. Group equivalent mechanisms and distinguish general domain knowledge from document-specific examples. Do not produce one separate background per document.
+
+Write:
+1. a concise definition of the forecasting target, and
+2. a compact set of general driver mechanisms that can affect it.
+
+For each mechanism, describe:
+- the relevant condition or driver,
+- its conditional upward or downward pressure where supported,
+- assumptions, applicability conditions, and limitations required for that interpretation.
+- why it belongs among the domain's main mechanisms, including agreement, disagreement, or limited coverage across the supplied documents.
+
+RULES
+- Use only the supplied reference material.
+- Include only general mechanisms that can be reused across benchmark episodes.
+- Exclude benchmark episodes, anchor-specific entities or dates, dated forecasts, contemporary settings, and episode-specific expectations.
+- Do not predict the target or assign numerical effect sizes.
+- Do not infer that any mechanism actually occurs in a benchmark episode.
+- Preserve uncertainty and conditionality; do not turn context-dependent relations into universal directional rules.
+- Omit mechanisms not supported by the supplied sources.
+- Judge prominence using target relevance, source authority, and consistency across documents; citation frequency alone does not establish importance or a universal effect.
+- Treat multiple passages from the same document as one source of support. Do not mistake repeated or dependent accounts for independent confirmation.
+- Keep the background compact. Preserve the source connections and unresolved issues in the mechanism map so that a person can review and revise the draft before it is fixed.
+- This output is a draft for human review; do not mark it approved or proceed to candidate-specific scenario construction.
+
+OUTPUT
+background_text,
+mechanism_map: mechanism, supported directions, required assumptions,
+               limitations, supporting source IDs, selection rationale, unresolved_items

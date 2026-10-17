@@ -1,0 +1,9 @@
+The target is the Nominal Broad U.S. Dollar Index (DTWEXBGS), a trade-weighted measure of the U.S. dollar against major U.S. trading partners. A higher index means a stronger dollar; a lower index means a weaker dollar.
+
+- Monetary policy and relative interest rates: Higher expected U.S. interest rates relative to other economies generally support the dollar, while lower relative rates or faster expected U.S. easing tend to weaken it.
+
+- Relative economic conditions: Stronger U.S. growth or economic data relative to major trading partners generally support the dollar, while weaker relative conditions tend to weigh on it. Inflation matters mainly through its effects on expected monetary policy and real returns.
+
+- Global risk sentiment: Financial stress, geopolitical uncertainty, or weaker risk appetite often increase demand for liquid U.S. dollar assets and strengthen the dollar. Improving global risk sentiment can reduce this safe-haven demand.
+
+- Foreign developments and capital flows: Stronger demand for U.S. assets or weaker monetary and economic conditions abroad generally support the dollar, while capital shifting toward foreign assets can weaken it. Effects are larger for currencies with greater weights in the broad dollar index.

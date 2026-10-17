@@ -1,0 +1,13 @@
+The target is the Henry Hub natural gas spot price (USD/MMBtu). Higher demand or less available gas generally pushes prices up; lower demand or more available gas generally pushes prices down.
+
+- Weather demand: Cold winter weather increases gas use for heating. Hot summer weather increases electricity use for air conditioning, which can increase gas use at power plants. Warmer winters or cooler summers reduce these demands.
+
+- Production: Freezing weather and equipment shutdowns can reduce gas production. Production restarts or growth add supply. Storms can also reduce gas use by disrupting businesses and electricity demand, partly offsetting production losses.
+
+- Pipelines: A blocked pipeline can leave consumers short of gas while trapping excess gas near producers. Prices may rise where gas cannot arrive and fall where gas cannot leave. The effect on Henry Hub depends on how the affected pipeline connects to the hub.
+
+- Storage: Less stored gas than usual for the season leaves a smaller reserve to meet demand; more stored gas provides a larger reserve. Withdrawals above expectations or injections below expectations suggest a tighter supply-demand balance; the reverse suggests a looser balance.
+
+- LNG and trade: More LNG exports leave less U.S. gas available for domestic use. Export-terminal shutdowns reduce exports and leave more gas at home; restarts reverse this effect. Overseas events matter when they affect U.S. gas imports or exports, within the limits of available infrastructure.
+
+- Industry and fuel substitution: Higher industrial activity increases gas use. When nuclear or hydropower output falls, gas-fired plants may burn more gas to replace it. More renewable generation or switching to other fuels can reduce gas use.

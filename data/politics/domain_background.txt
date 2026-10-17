@@ -1,0 +1,11 @@
+The target is the selected party's reported polling support in its country, measured as a percentage. A higher value means greater support for that party; a lower value means less support. Effects depend on the party's role and on which parties voters credit, blame, or view as credible alternatives.
+
+- Economic conditions and public services: Improving living standards, employment, housing, or public services can benefit parties credited with those outcomes, while deteriorating conditions can hurt parties held responsible.
+
+- Government performance and policy delivery: Effective administration and delivery of valued policies can strengthen support, while policy failures, unpopular decisions, or broken commitments can weaken it. Responsibility may be shared unevenly in coalition governments.
+
+- Leadership, integrity, and party unity: Favorable evaluations of party leadership, competence, and cohesion can strengthen support, while leadership disputes, defections, scandals, or perceived integrity failures can weaken it.
+
+- Policy positions and issue salience: Parties can gain when issues on which they are viewed as credible become more important and their positions align with voter priorities. They can lose when salient positions conflict with those priorities or are viewed as ineffective.
+
+- Political competition and alternatives: Stronger campaigns, alliances, or coordination can consolidate support, while credible rivals, fragmentation, or shifts toward competing parties can reduce it. Dissatisfaction with one party does not necessarily benefit any particular alternative.
