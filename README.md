@@ -8,7 +8,7 @@ We provide a scenario-guided multimodal time-series forecasting benchmark in the
   <thead>
     <tr>
       <th rowspan="2">Domain</th>
-      <th rowspan="2">Factual scenarios</th>
+      <th rowspan="2">Factual scenarios (# of anchors)</th>
       <th colspan="4">Relational Comparison (per anchor)</th>
       <th rowspan="2">Grounded sets</th>
     </tr>
